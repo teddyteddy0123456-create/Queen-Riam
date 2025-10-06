@@ -3,8 +3,8 @@
   "AUTOTYPE": "false",
   "AUTORECORD": "false",
   "AUTORECORDTYPE": "false",
-  "AUTO_STATUS_REACT": "false",
+  "AUTO_STATUS_REACT": "True",
   "AUTO_STATUS_REPLY": "false",
-  "AUTO_STATUS_MSG": "Viewed By Riam",
+  "AUTO_STATUS_MSG": "Viewed By Teddy",
   "ANTICALL": "off"
 }
